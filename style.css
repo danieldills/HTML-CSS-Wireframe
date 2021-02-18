@@ -1,10 +1,34 @@
+header {
+    background-color: rgb(48, 44, 44);
+    height: 100px;
+}
+
+/* header a {
+    padding-left: 30px;
+    padding-top: 30px;
+    margin-top: 30px;
+} */
+
 ul {
-float: right;
+    padding-top: 30px;
+    margin-left: 450px;
+}
+a {
+    text-decoration: none;
+    color: white;
+    font-size: x-large;
 }
 
 .hero {
   
 }
+
+.logo {
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 100px;
+}
+
 p {
-    float: right;
+    
 }
